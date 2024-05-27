@@ -1,0 +1,286 @@
+age,gender,occupation,education_level,marital_status,income,credit_score,loan_status
+32,Male,Engineer,Bachelor's,Married,85000,720,Approved
+45,Female,Teacher,Master's,Single,62000,680,Approved
+28,Male,Student,High School,Single,25000,590,Denied
+51,Female,Manager,Bachelor's,Married,105000,780,Approved
+36,Male,Accountant,Bachelor's,Married,75000,710,Approved
+24,Female,Nurse,Associate's,Single,48000,640,Denied
+42,Male,Lawyer,Doctoral,Married,120000,790,Approved
+29,Female,Artist,Bachelor's,Single,38000,620,Denied
+37,Male,IT,Master's,Married,92000,750,Approved
+48,Female,Doctor,Doctoral,Married,180000,820,Approved
+55,Male,Consultant,Master's,Married,110000,770,Approved
+31,Female,Analyst,Bachelor's,Single,68000,690,Approved
+26,Male,Salesman,High School,Single,42000,610,Denied
+39,Female,Marketing,Bachelor's,Married,78000,730,Approved
+44,Male,Architect,Master's,Married,95000,760,Approved
+27,Female,Designer,Bachelor's,Single,52000,650,Denied
+34,Male,Engineer,Bachelor's,Married,88000,740,Approved
+41,Female,Pharmacist,Doctoral,Married,125000,800,Approved
+30,Male,Researcher,Master's,Single,72000,700,Approved
+53,Female,Professor,Doctoral,Married,98000,790,Approved
+38,Male,Pilot,Bachelor's,Married,80000,720,Approved
+25,Female,Receptionist,High School,Single,35000,580,Denied
+46,Male,Banker,Master's,Married,115000,780,Approved
+33,Female,Writer,Bachelor's,Single,45000,630,Denied
+40,Male,Chef,Associate's,Married,60000,690,Approved
+28,Female,Veterinarian,Doctoral,Single,75000,710,Approved
+35,Male,Sales,Bachelor's,Married,70000,700,Approved
+43,Female,HR,Master's,Married,90000,750,Approved
+31,Male,Electrician,High School,Single,55000,670,Approved
+49,Female,Realtor,Bachelor's,Married,65000,720,Approved
+27,Male,Photographer,Associate's,Single,40000,600,Denied
+54,Female,Editor,Master's,Married,85000,760,Approved
+32,Male,Programmer,Bachelor's,Married,95000,780,Approved
+47,Female,Dentist,Doctoral,Married,140000,810,Approved
+29,Male,Musician,Bachelor's,Single,30000,570,Denied
+52,Female,Psychologist,Doctoral,Married,110000,800,Approved
+35,Male,Engineer,Master's,Married,100000,770,Approved
+26,Female,Server,High School,Single,28000,560,Denied
+40,Male,Software,Bachelor's,Married,85000,740,Approved
+33,Female,Stylist,Associate's,Single,42000,620,Denied
+38,Male,Accountant,Bachelor's,Married,82000,730,Approved
+30,Female,Teacher,Master's,Single,58000,670,Approved
+45,Male,Manager,Bachelor's,Married,110000,790,Approved
+28,Female,Nurse,Associate's,Single,50000,660,Denied
+42,Male,Lawyer,Doctoral,Married,130000,800,Approved
+36,Female,Engineer,Master's,Married,90000,740,Approved
+31,Male,Analyst,Bachelor's,Single,65000,680,Approved
+48,Female,Doctor,Doctoral,Married,175000,830,Approved
+34,Male,IT,Bachelor's,Married,78000,720,Approved
+27,Female,Artist,Bachelor's,Single,35000,600,Denied
+41,Male,Consultant,Master's,Married,105000,760,Approved
+29,Female,Designer,Bachelor's,Single,48000,640,Denied
+37,Male,Engineer,Bachelor's,Married,92000,750,Approved
+44,Female,Marketing,Master's,Married,85000,740,Approved
+32,Male,Salesman,High School,Single,45000,630,Denied
+50,Female,Professor,Doctoral,Married,120000,810,Approved
+39,Male,Architect,Master's,Married,100000,770,Approved
+25,Female,Receptionist,High School,Single,32000,570,Denied
+43,Male,Banker,Bachelor's,Married,95000,760,Approved
+30,Female,Writer,Master's,Single,55000,650,Approved
+38,Male,Chef,Associate's,Married,65000,700,Approved
+26,Male,Waiter,High School,Single,25000,580,Denied
+40,Female,Customer Service Representative,Associate's,Married,45000,660,Denied
+34,Male,Truck Driver,High School,Married,48000,620,Denied
+29,Female,Cashier,High School,Single,22000,550,Denied
+45,Male,Construction Worker,High School,Married,40000,640,Denied
+31,Female,Data Entry Clerk,Associate's,Single,35000,590,Denied
+38,Male,Janitor,High School,Married,30000,570,Denied
+27,Female,Delivery Driver,High School,Single,28000,560,Denied
+33,Male,Security Guard,High School,Married,32000,600,Denied
+35,Female,Telemarketer,High School,Single,30000,580,Denied
+42,Male,Warehouse Worker,High School,Married,35000,600,Denied
+28,Female,Housekeeper,High School,Single,25000,570,Denied
+39,Male,Factory Worker,High School,Married,32000,590,Denied
+36,Female,Assembler,High School,Married,28000,560,Denied
+30,Male,Security Officer,High School,Single,30000,580,Denied
+37,Female,Cleaner,High School,Married,26000,550,Denied
+37,Female,Engineer,Bachelor's,Married,92000,750,Approved
+29,Male,Artist,Bachelor's,Single,42000,610,Denied
+26,Female,Waiter,High School,Single,25000,580,Denied
+33,Male,Engineer,Bachelor's,Single,90000,750,Approved
+29,Female,Doctor,Doctoral,Married,130000,800,Approved
+40,Male,Manager,Master's,Married,110000,770,Approved
+27,Female,Analyst,Bachelor's,Single,80000,720,Approved
+35,Male,Artist,Bachelor's,Married,85000,740,Approved
+31,Female,Teacher,Master's,Single,72000,700,Approved
+28,Male,Consultant,Master's,Single,95000,760,Approved
+36,Female,Engineer,Bachelor's,Married,92000,750,Approved
+32,Male,Programmer,Bachelor's,Married,105000,780,Approved
+48,Female,Lawyer,Doctoral,Married,180000,820,Approved
+26,Male,IT,Bachelor's,Single,65000,680,Approved
+39,Female,Manager,Master's,Married,105000,780,Approved
+37,Male,Analyst,Bachelor's,Married,92000,750,Approved
+41,Female,Engineer,Master's,Single,100000,770,Approved
+30,Male,Artist,Bachelor's,Single,75000,710,Approved
+34,Female,Teacher,Master's,Married,85000,740,Approved
+32,Male,Doctor,Doctoral,Married,140000,810,Approved
+29,Female,Designer,Associate's,Single,62000,680,Approved
+43,Male,Accountant,Bachelor's,Married,110000,790,Approved
+27,Female,Analyst,Bachelor's,Single,78000,730,Approved
+35,Male,Architect,Master's,Single,92000,750,Approved
+31,Female,Lawyer,Doctoral,Married,120000,790,Approved
+28,Male,Manager,Bachelor's,Married,105000,780,Approved
+46,Female,Engineer,Master's,Married,100000,770,Approved
+38,Male,Software,Bachelor's,Single,75000,710,Approved
+44,Female,Professor,Doctoral,Married,120000,810,Approved
+32,Male,Artist,Bachelor's,Married,92000,750,Approved
+30,Female,Teacher,Master's,Single,80000,720,Approved
+39,Male,Consultant,Master's,Married,110000,790,Approved
+37,Female,Engineer,Bachelor's,Single,85000,740,Approved
+33,Male,Programmer,Bachelor's,Married,100000,770,Approved
+31,Female,Doctor,Doctoral,Single,130000,800,Approved
+28,Male,IT,Bachelor's,Single,78000,730,Approved
+42,Female,Manager,Master's,Married,105000,780,Approved
+36,Male,Analyst,Bachelor's,Married,92000,750,Approved
+40,Female,Engineer,Master's,Single,100000,770,Approved
+29,Male,Artist,Bachelor's,Single,75000,710,Approved
+22,Female,Graphic Designer,Bachelor's,Single,45000,670,Approved
+39,Male,Financial Analyst,Master's,Married,90000,750,Approved
+29,Female,Software Engineer,Bachelor's,Single,80000,720,Approved
+41,Male,Physician,Doctoral,Married,200000,850,Approved
+27,Female,Research Scientist,Master's,Single,70000,700,Approved
+33,Male,Real Estate Agent,Bachelor's,Single,60000,690,Approved
+35,Female,Entrepreneur,Bachelor's,Married,120000,780,Approved
+31,Male,Police Officer,Associate's,Married,65000,710,Approved
+26,Female,Financial Advisor,Bachelor's,Single,55000,680,Approved
+44,Male,Construction Manager,Bachelor's,Married,110000,770,Approved
+28,Female,Social Worker,Master's,Single,60000,700,Approved
+38,Male,Firefighter,High School,Married,75000,720,Approved
+30,Female,Data Scientist,Doctoral,Single,85000,740,Approved
+42,Male,Investment Banker,Master's,Married,150000,800,Approved
+32,Female,Event Planner,Bachelor's,Single,55000,690,Approved
+29,Male,Physical Therapist,Doctoral,Married,95000,760,Approved
+37,Female,Public Relations Manager,Master's,Married,100000,770,Approved
+31,Male,Software Developer,Bachelor's,Single,80000,730,Approved
+25,Female,Interior Designer,Bachelor's,Single,50000,660,Approved
+34,Male,Flight Attendant,Associate's,Married,70000,710,Approved
+26,Female,Speech Therapist,Master's,Single,60000,690,Approved
+39,Male,Investment Analyst,Master's,Married,110000,770,Approved
+33,Female,Event Coordinator,Bachelor's,Single,60000,690,Approved
+27,Male,Chemical Engineer,Doctoral,Married,100000,770,Approved
+45,Female,Executive Assistant,Associate's,Single,80000,740,Approved
+28,Male,Digital Marketing Specialist,Bachelor's,Single,65000,700,Approved
+40,Female,Pharmaceutical Sales Representative,Master's,Married,120000,780,Approved
+30,Male,Architectural Designer,Bachelor's,Single,70000,710,Approved
+36,Female,HR Manager,Master's,Married,95000,760,Approved
+29,Male,Financial Planner,Doctoral,Single,90000,750,Approved
+43,Female,Operations Manager,Master's,Married,130000,800,Approved
+32,Male,UX Designer,Bachelor's,Single,75000,720,Approved
+31,Female,Registered Nurse,Associate's,Married,70000,710,Approved
+35,Male,Physical Education Teacher,Bachelor's,Single,60000,690,Approved
+26,Female,Biomedical Engineer,Master's,Single,70000,710,Approved
+41,Male,Investment Manager,Doctoral,Married,180000,820,Approved
+27,Female,UX Researcher,Bachelor's,Single,65000,700,Approved
+38,Male,Operations Analyst,Bachelor's,Married,90000,750,Approved
+34,Female,Legal Assistant,Associate's,Single,55000,680,Approved
+29,Male,Social Media Manager,Master's,Married,80000,730,Approved
+46,Female,Insurance Agent,High School,Married,70000,710,Approved
+30,Male,Supply Chain Analyst,Bachelor's,Single,70000,710,Approved
+36,Female,Healthcare Administrator,Master's,Married,95000,760,Approved
+25,Male,Construction Engineer,Bachelor's,Single,65000,700,Approved
+32,Female,Environmental Scientist,Doctoral,Married,110000,770,Approved
+31,Male,Account Manager,Bachelor's,Single,75000,720,Approved
+37,Female,Financial Controller,Master's,Married,100000,770,Approved
+33,Male,Product Manager,Master's,Single,85000,740,Approved
+28,Female,Technical Writer,Bachelor's,Single,65000,700,Approved
+40,Male,Operations Director,Doctoral,Married,160000,810,Approved
+26,Female,Public Health Nurse,Master's,Single,70000,710,Approved
+39,Male,Environmental Engineer,Master's,Married,110000,770,Approved
+24,Female,Secretary,High School,Single,32000,590,Denied
+28,Male,Construction Worker,High School,Married,38000,600,Denied
+31,Female,Server,High School,Single,27000,580,Denied
+33,Male,Customer Service Representative,Associate's,Married,42000,610,Denied
+26,Female,Data Entry Clerk,High School,Single,30000,570,Denied
+35,Male,Security Guard,High School,Married,35000,590,Denied
+29,Female,Housekeeper,High School,Single,25000,560,Denied
+37,Male,Truck Driver,High School,Married,40000,620,Denied
+30,Female,Cashier,High School,Single,22000,550,Denied
+42,Male,Janitor,High School,Married,28000,560,Denied
+28,Female,Waiter,High School,Single,26000,570,Denied
+35,Male,Assembler,High School,Married,31000,590,Denied
+32,Female,Cleaner,High School,Married,24000,560,Denied
+31,Male,Factory Worker,High School,Single,29000,570,Denied
+39,Female,Receptionist,High School,Single,27000,560,Denied
+36,Male,Delivery Driver,High School,Married,33000,600,Denied
+34,Female,Telemarketer,High School,Single,28000,570,Denied
+33,Male,Warehouse Worker,High School,Married,32000,590,Denied
+27,Female,Housekeeper,High School,Single,23000,550,Denied
+30,Male,Factory Worker,High School,Single,27000,560,Denied
+29,Female,Cleaner,High School,Married,26000,570,Denied
+31,Male,Construction Worker,High School,Single,29000,570,Denied
+28,Female,Delivery Driver,High School,Single,25000,560,Denied
+33,Male,Janitor,High School,Married,31000,590,Denied
+26,Female,Assembler,High School,Single,24000,560,Denied
+35,Male,Security Guard,High School,Married,36000,600,Denied
+32,Female,Truck Driver,High School,Single,31000,580,Denied
+29,Male,Cashier,High School,Married,27000,560,Denied
+36,Female,Data Entry Clerk,High School,Single,31000,580,Denied
+38,Male,Housekeeper,High School,Married,32000,590,Denied
+27,Female,Waiter,High School,Single,23000,550,Denied
+34,Male,Factory Worker,High School,Married,33000,600,Denied
+31,Female,Cleaner,High School,Single,28000,570,Denied
+30,Male,Delivery Driver,High School,Married,29000,570,Denied
+29,Female,Assembler,High School,Single,25000,560,Denied
+35,Male,Warehouse Worker,High School,Married,34000,600,Denied
+32,Female,Janitor,High School,Single,31000,590,Denied
+26,Male,Security Guard,High School,Married,26000,570,Denied
+33,Female,Truck Driver,High School,Single,32000,590,Denied
+28,Male,Cashier,High School,Single,28000,570,Denied
+36,Female,Construction Worker,High School,Married,32000,590,Denied
+30,Male,Data Entry Clerk,High School,Single,27000,560,Denied
+39,Female,Waiter,High School,Married,33000,600,Denied
+27,Male,Housekeeper,High School,Single,24000,560,Denied
+34,Female,Factory Worker,High School,Single,31000,590,Denied
+31,Male,Assembler,High School,Married,29000,570,Denied
+35,Female,Delivery Driver,High School,Single,26000,570,Denied
+32,Male,Cleaner,High School,Single,30000,570,Denied
+29,Female,Warehouse Worker,High School,Married,25000,560,Denied
+38,Male,Security Guard,High School,Married,33000,600,Denied
+26,Female,Janitor,High School,Single,27000,560,Denied
+33,Male,Truck Driver,High School,Single,32000,590,Denied
+27,Female,Waiter,High School,Married,24000,560,Denied
+31,Male,Factory Worker,High School,Single,28000,570,Denied
+36,Female,Delivery Driver,High School,Married,33000,600,Denied
+34,Male,Assembler,High School,Single,31000,590,Denied
+33,Female,Waiter,High School,Married,27000,560,Denied
+29,Male,Housekeeper,High School,Single,24000,560,Denied
+35,Female,Janitor,High School,Single,31000,590,Denied
+32,Male,Security Guard,High School,Married,32000,590,Denied
+28,Female,Truck Driver,High School,Single,28000,570,Denied
+30,Male,Cashier,High School,Single,27000,560,Denied
+39,Female,Data Entry Clerk,High School,Married,33000,600,Denied
+27,Male,Assembler,High School,Married,26000,570,Denied
+34,Female,Waiter,High School,Single,31000,590,Denied
+31,Male,Delivery Driver,High School,Married,29000,570,Denied
+35,Female,Housekeeper,High School,Single,26000,570,Denied
+32,Male,Factory Worker,High School,Single,30000,570,Denied
+29,Female,Janitor,High School,Married,25000,560,Denied
+36,Male,Security Guard,High School,Married,34000,600,Denied
+30,Female,Truck Driver,High School,Single,27000,560,Denied
+33,Male,Cashier,High School,Single,32000,590,Denied
+28,Female,Data Entry Clerk,High School,Single,28000,570,Denied
+31,Male,Waiter,High School,Married,29000,570,Denied
+35,Female,Assembler,High School,Single,26000,570,Denied
+32,Male,Housekeeper,High School,Single,30000,570,Denied
+29,Female,Factory Worker,High School,Married,25000,560,Denied
+36,Male,Janitor,High School,Single,34000,600,Denied
+30,Female,Security Guard,High School,Married,28000,570,Denied
+33,Male,Truck Driver,High School,Single,33000,600,Denied
+28,Female,Cashier,High School,Single,29000,570,Denied
+31,Male,Assembler,High School,Married,30000,570,Denied
+35,Female,Delivery Driver,High School,Single,27000,560,Denied
+32,Male,Waiter,High School,Single,31000,590,Denied
+29,Female,Housekeeper,High School,Married,26000,570,Denied
+36,Male,Factory Worker,High School,Married,34000,600,Denied
+30,Female,Data Entry Clerk,High School,Single,28000,570,Denied
+33,Male,Janitor,High School,Single,33000,600,Denied
+28,Female,Security Guard,High School,Married,29000,570,Denied
+31,Male,Truck Driver,High School,Married,30000,570,Denied
+35,Female,Cashier,High School,Single,27000,560,Denied
+32,Male,Assembler,High School,Single,31000,590,Denied
+29,Female,Delivery Driver,High School,Married,25000,560,Denied
+36,Male,Waiter,High School,Single,34000,600,Denied
+30,Female,Housekeeper,High School,Single,28000,570,Denied
+33,Male,Factory Worker,High School,Married,33000,600,Denied
+28,Female,Janitor,High School,Single,29000,570,Denied
+31,Male,Security Guard,High School,Single,30000,570,Denied
+35,Female,Truck Driver,High School,Married,27000,560,Denied
+32,Male,Cashier,High School,Single,31000,590,Denied
+29,Female,Assembler,High School,Single,26000,570,Denied
+36,Male,Data Entry Clerk,High School,Married,34000,600,Denied
+30,Female,Waiter,High School,Married,28000,570,Denied
+33,Male,Housekeeper,High School,Single,33000,600,Denied
+28,Female,Factory Worker,High School,Single,29000,570,Denied
+31,Male,Janitor,High School,Married,30000,570,Denied
+35,Female,Security Guard,High School,Single,27000,560,Denied
+32,Male,Truck Driver,High School,Single,31000,590,Denied
+29,Female,Cashier,High School,Married,25000,560,Denied
+36,Male,Assembler,High School,Married,34000,600,Denied
+30,Female,Delivery Driver,High School,Single,28000,570,Denied
+33,Male,Waiter,High School,Single,33000,600,Denied
+28,Female,Housekeeper,High School,Married,29000,570,Denied
+31,Male,Factory Worker,High School,Single,30000,570,Denied
+35,Female,Janitor,High School,Single,27000,560,Denied
+32,Male,Security Guard,High School,Married,31000,590,Denied
